@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Replace Tire",
+    "price": 2000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab ut quo maxime debitis itaque similique perspiciatis. Similique suscipit repellat voluptatem, aliquam explicabo consequuntur nesciunt incidunt. Id recusandae numquam vitae? Ullam.",
+    "img": "https://i.ibb.co/LQVBDDB/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Replace Door",
+    "price": 2000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab ut quo maxime debitis itaque similique perspiciatis. Similique suscipit repellat voluptatem, aliquam explicabo consequuntur nesciunt incidunt. Id recusandae numquam vitae? Ullam.",
+    "img": "https://i.ibb.co/RbF1ZSh/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Replace Glass",
+    "price": 2000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab ut quo maxime debitis itaque similique perspiciatis. Similique suscipit repellat voluptatem, aliquam explicabo consequuntur nesciunt incidunt. Id recusandae numquam vitae? Ullam.",
+    "img": "https://i.ibb.co/mc3XP5N/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Replace Color",
+    "price": 2000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab ut quo maxime debitis itaque similique perspiciatis. Similique suscipit repellat voluptatem, aliquam explicabo consequuntur nesciunt incidunt. Id recusandae numquam vitae? Ullam.",
+    "img": "https://i.ibb.co/sJBqTcQ/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Replace Gear",
+    "price": 2000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab ut quo maxime debitis itaque similique perspiciatis. Similique suscipit repellat voluptatem, aliquam explicabo consequuntur nesciunt incidunt. Id recusandae numquam vitae? Ullam.",
+    "img": "https://i.ibb.co/my0nfsr/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Replace Rim",
+    "price": 2000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab ut quo maxime debitis itaque similique perspiciatis. Similique suscipit repellat voluptatem, aliquam explicabo consequuntur nesciunt incidunt. Id recusandae numquam vitae? Ullam.",
+    "img": "https://i.ibb.co/8PxxFVQ/6.jpg"
+  }
+]
